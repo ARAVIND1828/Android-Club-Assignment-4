@@ -28,8 +28,7 @@ export default function BottomTabs() {
        <View
             style={{
                 backgroundColor:"white"
-            }}
-       >
+            }}>
        
             <View
                 style={{
